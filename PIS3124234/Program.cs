@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Ć_
-    hjjkh
+Console.WriteLine("Novo");
 
 
