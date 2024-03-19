@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Novo");
-Console.WriteLine("Niej ediztanno");
+Console.WriteLine("konflikt lokalno");
